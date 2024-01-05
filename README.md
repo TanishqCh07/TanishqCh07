@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.codsoft.in%2Fweb-development&psig=AOvVaw39h2o54ihpjzyLQUN7tPH0&ust=1704541496355000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMDHl42WxoMDFQAAAAAdAAAAABAD)]
+[![MasterHead](https://www.google.com/imgres?imgurl=https%3A%2F%2Fpropulsive.in%2Fassets%2Fimg%2Fservice-icon%2Fweb.gif&tbnid=kW5aMR9bQr2XuM&vet=12ahUKEwjkk7eElsaDAxW6UGwGHQSsCl8QMygiegUIARDPAQ..i&imgrefurl=https%3A%2F%2Fpropulsive.in%2Fweb-development.php&docid=2ETdpvmVQba8wM&w=1920&h=590&q=web%20developer%20gif&ved=2ahUKEwjkk7eElsaDAxW6UGwGHQSsCl8QMygiegUIARDPAQ)]
 <h1 align="center">Hi 👋, I'm TANISHQ CHAURASIA</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 <img allign="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
